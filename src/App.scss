@@ -7,3 +7,76 @@
   width: 960px;
   background-color: $white;
 }
+
+
+header, .aboutMe, .education {
+  background-color: white;
+}
+
+img {
+  margin-left: 45%;
+  border-radius: 50%;
+}
+.dimg{
+  background-color: lightgray;
+  height: 130px;
+  padding-top:20px;
+}
+
+.hello{padding-top:200px;}
+
+header h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.aboutMe,.education {
+  padding: 40px;
+}
+
+.aboutMe h1, .education h1 {
+  color: red;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.aboutMe p{
+  font-size: 32px;
+}
+
+.year {
+  float: left;
+  font-size: 34px;
+  font-weight: bold;
+  width: 15%;
+}
+
+.info {
+  width: 85%;
+  margin-left: 15%;
+  background-color: lightgray;
+  height: 100px;
+  padding: 34px;
+  font-size: 22px;
+}
+
+ul li {
+  margin-bottom: 50px;
+}
+
+.abstract{
+  font-weight: bold;
+  font-size: 34px;
+}
+
+.abstract,.content{
+  margin-bottom: 20px;
+}
+
+.line{
+  background-color:lightgray;
+  width: 96%;
+  height:8px;
+  margin-left:2%;
+  margin-top:50px;
+}
